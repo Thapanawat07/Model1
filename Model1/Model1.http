@@ -8,3 +8,7 @@ Accept: application/json
 GET {{Model1_HostAddress}}/ping
 
 ###
+
+GET {{Model1_HostAddress}}/system/api/restaurant/list
+
+###
